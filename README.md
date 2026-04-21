@@ -172,6 +172,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 *   **Muhammad Bilal** - *Lead Developer* - [GitHub](https://github.com/MBilal26)
 *   **Usaidullah Rehan** - *Developer*
+*   **Usman - *Developer & Tester*
 
 <br/>
 <div align="center">
